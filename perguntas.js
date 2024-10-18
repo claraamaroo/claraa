@@ -15,31 +15,19 @@ criaCartao(
 "Portugues",
 "Qual a letra que antecede a letra O no alfabeto",
 
-'letra N',
+'letra N'
 )
 
 
 criaCartao(
     "Esporte",
     'Onde sao disputadas as lutas de judo?',
-    "No tatame",
+    "No tatame"
 )
 
 
 
 
-
-)
-
-
-
-
-
-
-
-
-)
-)
 
 
 
